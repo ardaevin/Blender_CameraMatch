@@ -1,14 +1,17 @@
 schema_version = "1.0.0"
 
-id = "vp_camera_match"
+id = "camera_match"
 version = "0.1.0"
-name = "VP Camera Match"
+name = "Camera Match"
 tagline = "Match a camera to a still image from vanishing points"
 maintainer = "Arda Evin"
-website = "https://github.com/ardaevin/Blender_VPCameraMatch"
+website = "https://github.com/ardaevin/Blender_CameraMatch"
 type = "add-on"
 
 blender_version_min = "4.2.0"
 
 license = ["SPDX:GPL-3.0-or-later"]
 tags = ["Camera", "3D View"]
+
+[build]
+paths_exclude_pattern = ["__pycache__/", "/.git/", "/.gitignore", "*.zip"]

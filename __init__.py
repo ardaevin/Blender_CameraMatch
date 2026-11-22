@@ -1,4 +1,4 @@
-"""VP Camera Match - fSpy-style camera calibration from vanishing points, inside Blender's camera view."""
+"""Camera Match - fSpy-style camera calibration from vanishing points, inside Blender's camera view."""
 
 import bpy
 from bpy.app.handlers import persistent

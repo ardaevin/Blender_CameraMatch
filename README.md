@@ -1,4 +1,4 @@
-# VP Camera Match
+# Camera Match
 
 An fSpy-style camera matcher that runs **inside Blender's camera view**. Drag vanishing-point lines over the camera's background image and the active camera's focal length, rotation, position and (optionally) lens shift are solved live.
 
