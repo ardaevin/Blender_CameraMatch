@@ -16,7 +16,7 @@ An fSpy-style camera matcher that runs **inside Blender's camera view**. Drag va
 
 Blender 4.2+ (developed on 5.2).
 
-1. Download this repository as a zip.
+1. Download `camera_match-<version>.zip` from the [latest release](https://github.com/ardaevin/Blender_CameraMatch/releases/latest). Use the release zip, not GitHub's "Download ZIP" of the source.
 2. Blender → Edit → Preferences → Get Extensions → ⌄ → **Install from Disk…** → pick the zip.
 
 ## Usage
